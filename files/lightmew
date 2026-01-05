@@ -1,0 +1,38 @@
+{
+  "display": "Lights Mew",
+  "base_species": "mew",
+  "id": 10022,
+  "event": "Christmas Event",
+  "rarity": ["Mythical", "Event"],
+  "types": ["psychic"],
+  "region": "Kanto",
+  "catchable": false,
+  "stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "total_stats": 600,
+  "appearance": {
+    "height_m": 0.4,
+    "weight_kg": 4.0
+  },
+  "gender_ratio": "Genderless",
+  "egg_groups": ["Undiscovered"],
+  "hatch_time_cycles": 120,
+  "names": {
+    "en": ["Lights Mew", "Christmas Mew"]
+  },
+  "images": {
+    "normal": "https://raw.githubusercontent.com/amvoz300-blip/ZeroDex/main/images/50082.png",
+    "shiny": "https://raw.githubusercontent.com/amvoz300-blip/ZeroDex/main/images/1992.png"
+  },
+  "artwork": {
+    "copyright": "© The Pokémon Company.",
+    "credit": "Artwork by x_cinderace_x"
+  },
+  "description": "A festive event variant of Mew released during the Christmas celebration."
+}
