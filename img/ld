@@ -1,0 +1,7 @@
+_________________________________{
+  "lights-mew": {
+    "parent": "mew",
+    "base": "mew",
+    "file": "data/mew.json"
+  }
+}
