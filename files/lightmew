@@ -27,8 +27,8 @@
     "en": ["Lights Mew", "Christmas Mew"]
   },
   "images": {
-    "normal": "https://raw.githubusercontent.com/amvoz300-blip/ZeroDex/main/images/50082.png",
-    "shiny": "https://raw.githubusercontent.com/amvoz300-blip/ZeroDex/main/images/1992.png"
+    "normal": "https://raw.githubusercontent.com/amvoz300-blip/ZeroDex/main/img/50082.png",
+    "shiny": "https://raw.githubusercontent.com/amvoz300-blip/ZeroDex/main/img/1992.png"
   },
   "artwork": {
     "copyright": "© The Pokémon Company.",
